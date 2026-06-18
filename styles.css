@@ -12,7 +12,7 @@ body {
     #8b00ff
   );
 }
-head {
+header {
   background-color: #8b00ff;
   width: 100%;
     padding: 100px 5%; /* 15px acima/abaixo e 5% de margem nas laterais */
