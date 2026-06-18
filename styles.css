@@ -12,3 +12,12 @@ body {
     #8b00ff
   );
 }
+head {
+  background-color: #8b00ff;
+  width: 100%;
+    padding: 15px 5%; /* 15px acima/abaixo e 5% de margem nas laterais */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
