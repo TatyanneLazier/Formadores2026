@@ -23,5 +23,7 @@ header {
 }
 p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  size: flex 20%;
+  font-size: 1.2rem; /* Define o tamanho da fonte de forma responsiva */
+  text-align: center; /* Centraliza o texto na tela */
+  margin: 20px auto; /* Adiciona margem acima/abaixo e centraliza nas laterais */
 }
