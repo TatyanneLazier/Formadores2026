@@ -51,6 +51,8 @@ button {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra leve sob o botão */
   cursor: pointer;
   transition: background 0.3s; /* Efeito suave ao passar o mouse */
+  display: block;   /* Transforma o botão em um bloco individual */
+  margin: 20px auto;
 }
 
 /* Efeito ao passar o mouse por cima (Hover) */
