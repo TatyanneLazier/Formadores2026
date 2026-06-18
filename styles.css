@@ -27,3 +27,15 @@ p {
   text-align: center; /* Centraliza o texto na tela */
   margin: 20px auto; /* Adiciona margem acima/abaixo e centraliza nas laterais */
 }
+.container-jogo {
+    position: relative;
+    width: 100%;
+    max-width: 640px; /* Largura máxima do jogo na tela */
+    margin: 20px auto; /* Centraliza na tela */
+    aspect-ratio: 4 / 3; /* Mantém a proporção padrão do Scratch */
+}
+
+.container-jogo iframe {
+    width: 100%;
+    height: 100%;
+}
