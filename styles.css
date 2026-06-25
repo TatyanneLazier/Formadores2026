@@ -61,3 +61,11 @@ button {
 button:hover {
   background-color: #45a049; /* Escurece o verde levemente */
 }
+.container-jogo{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 1.2rem; /* Define o tamanho da fonte de forma responsiva */
+  text-align: center; /* Centraliza o texto na tela */
+  margin: 20px auto; /* Adiciona margem acima/abaixo e centraliza nas laterais */
+  color: aliceblue;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
