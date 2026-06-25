@@ -20,6 +20,8 @@ header {
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
+    font-family: fantasy;
+    font-size: 16px 120%;
 }
 p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
